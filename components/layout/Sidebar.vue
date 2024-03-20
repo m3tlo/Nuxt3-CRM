@@ -21,6 +21,7 @@
         size="20"
       />
     </button>
+    <LayoutMenu />
   </aside>
 </template>
 
