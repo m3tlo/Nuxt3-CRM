@@ -10,11 +10,11 @@
         class="mx-auto"
         src="/logo.svg"
         alt="LOGO"
-        width="100"
+        width="120"
       />
     </NuxtLink>
     <button
-      class="absolute top-2 right-5 transitions-colors hover:text-primary"
+      class="absolute top-1 right-2 transitions-colors hover:text-primary"
     >
       <Icon
         name="line-md:log-out"
